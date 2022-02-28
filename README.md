@@ -35,4 +35,5 @@ This repository uses the following commit message conventions:
 [Commit Conventions](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)  
 
 ## Doge
-![Doge]("https://giphy.com/embed/lMyEespPQdFoWuK4oP") 
+![Doge]("https://media.giphy.com/media/lMyEespPQdFoWuK4oP/giphy-downsized-large.gif") 
+
