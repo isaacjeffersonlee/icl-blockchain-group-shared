@@ -34,5 +34,4 @@ gathering/analysis scripts/code that can be re-used.
 This repository uses the following commit message conventions:  
 [Commit Conventions](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)  
 
-![Money]("https://giphy.com/clips/Dashpay-money-federal-reserve-printer-qXR53U25GPeocwivdd") 
-
+![Money]("https://giphy.com/embed/qXR53U25GPeocwivdd/video")
