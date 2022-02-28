@@ -35,4 +35,4 @@ This repository uses the following commit message conventions:
 [Commit Conventions](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)  
 
 ## Doge
-![Doge]("./Findings/Images/doge.jpeg")
+![Doge](./Findings/Images/doge.jpeg)
