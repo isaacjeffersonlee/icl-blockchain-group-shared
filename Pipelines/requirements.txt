@@ -1,0 +1,5 @@
+ipywidgets==7.6.5
+pandas==1.4.1
+seaborn==0.11.2
+setuptools==60.9.3
+twint==2.1.21
