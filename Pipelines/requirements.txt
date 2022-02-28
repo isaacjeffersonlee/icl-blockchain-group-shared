@@ -1,0 +1,4 @@
+ipywidgets
+pandas
+seaborn
+setuptools
