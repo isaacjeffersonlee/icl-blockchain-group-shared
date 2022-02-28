@@ -7,7 +7,8 @@ A repo containing shared data, pipelines and findings for the Imperial College L
 
 ## Structure
 This repo uses the following structure:  
-  
+
+```
 ├── Data  
 │   ├── Price    
 │   └── Tweets    
@@ -17,6 +18,7 @@ This repo uses the following structure:
 ├── Notebooks  
 └── Pipelines  
     └── my_data_pipelines  
+```
   
 The idea is to gather and clean data and save it in Data/, then explore  
 and analyse the data in notebooks in Notebooks/, then write-up findings and or  
